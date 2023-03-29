@@ -5,5 +5,7 @@ This is a template to use for the Koru Kids coding session. If you are using Rub
 ## Usage
 
 Run `bin/setup` to install dependencies.
+
 Run `bin/rspec` to run the tests.
+
 You can also run `bin/console` for an interactive prompt that will allow you to experiment.
