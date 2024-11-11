@@ -1,10 +1,8 @@
 # frozen_string_literal: true
 
-require_relative "lib/checkout/version"
-
 Gem::Specification.new do |spec|
   spec.name = "checkout"
-  spec.version = Checkout::VERSION
+  spec.version = 0
   spec.authors = ["Koru Kids"]
   spec.email = []
 
